@@ -17,18 +17,6 @@ git switch main	Switch to main
 git diff	View unstaged differences
 git log	View history
 
-git statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit status
-sdfghjertyui
-fghjk
-gjkl
-ghjkl
-ghjkl
-testing gid comds
-ghkl
-git push
-ghjk
-ghjk
-ghj
-madhava
+git statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statupu
 asdfghjk
 dfghjkl
