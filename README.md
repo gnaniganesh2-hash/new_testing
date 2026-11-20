@@ -18,3 +18,9 @@ git diff	View unstaged differences
 git log	View history
 
 git statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit statusgit status
+sdfghjertyui
+fghjk
+gjkl
+ghjkl
+ghjkl
+ghkl
