@@ -18,11 +18,3 @@ git diff	View unstaged differences
 git log	View history
 
 
-1. Basic Git Commands
-Command	Description
-git --version	Check Git version
-git config --list	View Git configuration
-git status	Check working directory status
-git init	Initialize a Git repository
-git clone <URL>	Clone a remote repository
-git help	Open Git help
