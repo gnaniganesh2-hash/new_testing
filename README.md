@@ -24,3 +24,7 @@ gjkl
 ghjkl
 ghjkl
 ghkl
+git push
+ghjk
+ghjk
+ghj
