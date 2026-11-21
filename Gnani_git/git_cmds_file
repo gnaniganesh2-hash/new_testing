@@ -3,3 +3,5 @@ git pull origin main
 usage:pulling the git repositry
 cd file name(git_python)
 usage: acess the file
+ git commit -m "new_changes"cd
+ 
